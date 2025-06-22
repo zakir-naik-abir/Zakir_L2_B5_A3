@@ -1,5 +1,5 @@
 
-interface IBook {
+export interface IBook {
   title: string,
   author: string,
   genre: Genre,

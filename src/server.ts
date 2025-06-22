@@ -28,12 +28,14 @@ app.listen(config.port, ()=> {
   console.log(`✅ Server is running on port ${port}`)
 });
 
+
 // mongo database
 async function server () {
+  
   try {
-    console.log(config)
+    // console.log(config)
     await mongoose.connect(config.database_url!);
-
+   
     console.log(`✅ Connected to Mongo Database`);
   } catch (error) {
     console.log(`❌ Server error ${server}`)
