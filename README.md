@@ -6,7 +6,7 @@ This is a **Library Management System API** built with **Express**, **TypeScript
 
 🔗 [Live Deployment (Vercel)](https://z-l1-b2-a3-mhi7okesw-zakir-naiks-projects.vercel.app/api/books), ([](https://z-l1-b2-a3.vercel.app/api/books)),
 🔗  [Github Link: https://github.com/zakir-naik-abir/Zakir_L2_B5_A3]
-🎥 [Video Explanation]()
+🎥 [Video Explanation](https://www.loom.com/share/b5d2134b84c94ac98a437bc2d4bb39eb?sid=8bd76370-2717-403c-98cc-4f1900f1e6b3)
 
 ## 🔧 Tech Stack
 
